@@ -1,6 +1,6 @@
 export default function PageHome() {
   return (
-    <main>
+    <main className="">
       Home
     </main>
   );
